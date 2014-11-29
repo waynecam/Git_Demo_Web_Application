@@ -12,6 +12,7 @@
     <div>
             <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
             <asp:button runat="server" text="Click Me" />
+            <div>Just a random bit of text</div>
     </div>
     </form>
 </body>
